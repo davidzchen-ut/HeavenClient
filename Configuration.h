@@ -315,14 +315,14 @@ namespace ms
 	// The width of the screen
 	struct Width : public Configuration::ShortEntry
 	{
-		Width() : ShortEntry("Width", "800")
+		Width() : ShortEntry("Width", "1920")
 		{}
 	};
 
 	// The height of the screen
 	struct Height : public Configuration::ShortEntry
 	{
-		Height() : ShortEntry("Height", "600")
+		Height() : ShortEntry("Height", "1080")
 		{}
 	};
 

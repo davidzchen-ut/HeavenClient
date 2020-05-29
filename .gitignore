@@ -23,3 +23,8 @@ libs/
 
 # Vagrant
 .vagrant/
+
+# Development Files
+
+HeavenClient
+tags
